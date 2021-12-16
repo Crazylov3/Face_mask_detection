@@ -20,7 +20,7 @@ The Resnet 50 Architecture provided by Pytorch was used in this project.
 
 <img src="https://github.com/Crazylov3/Face_mask_detection/blob/main/Image/mask2.png" width="300"> <img src="https://github.com/Crazylov3/Face_mask_detection/blob/main/Image/mask1.png" width="300">
 
-*The model can recognize the object covering in front of your face, and not consider it as a mask. While other facemask models I found on git can't do this 😃.*
+*The model can recognize the object covering in front of your face, and not consider it as a mask. While other facemask models I found on Github often misidentify 😃.*
 
 <img src="https://github.com/Crazylov3/Face_mask_detection/blob/main/Image/mask3.png" width="300"> <img src="https://github.com/Crazylov3/Face_mask_detection/blob/main/Image/mask4.png" width="300">
 
